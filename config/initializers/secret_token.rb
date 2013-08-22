@@ -24,4 +24,4 @@ def secure_token
   end
 end
 
-Connec4::Application.config.secret_key_base = secure_token
+Connect4::Application.config.secret_key_base = secure_token

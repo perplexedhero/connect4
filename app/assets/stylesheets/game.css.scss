@@ -8,7 +8,7 @@
 body {
     font-family: Helvetica, Arial, "Lucida Grande", sans-serif;
 	width:auto;
-	background-image:url(images/bg.png); /* Sky and Grass */
+	background-image:url(bg.png); /* Sky and Grass */
 	background-repeat:repeat-x;
 }
 
@@ -56,7 +56,7 @@ hr 		{color:#481700;}
 	width:560px;
 	height:480px;
 	float:right;
-	background-image:url(images/bg-brown.png);
+	background-image:url(bg-brown.png);
 }
 
 #board{
@@ -74,7 +74,7 @@ hr 		{color:#481700;}
 }
 
 #menu {
-	background-image:url(images/bg-brown.png);
+	background-image:url(bg-brown.png);
 	margin-right:18px;
 	width:160px;
 	height:530px;
